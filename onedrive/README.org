@@ -5,6 +5,6 @@ Occasionally, should Microsoft decide that your Mac isn't worth supporting, you 
 
 The 'onedrive_discovery' script will check for your OneDrive files in the hidden locations and offer you the choice to copy these to your home area or create links to these locations for easier access (useful if your storage conscious).
 
-Run the script and select your option. One done, there will be a 'OneDrive' directory in your home area. In this will be a personal directory, holding a copy of your personal OneDrive(s) .noindex directory, or a link to it. There will also be a Business directory holding a copy of any workplace/academic OneDrive.noindex directories or links to them.
+Run the script and select your option. Once done, there will be a 'OneDrive' directory in your home area. In this will be a personal directory, holding a copy of your personal OneDrive(s) .noindex directory, or a link to it. There will also be a Business directory holding a copy of any workplace/academic OneDrive.noindex directories or links to them.
 
 This script doesn't guarantee that all your files will be visible to you. OneDrive is a fickle beast and may have stopped syncing and saving your files long before it crashes.
