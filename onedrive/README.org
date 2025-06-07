@@ -1,7 +1,7 @@
 #+title: Readme
 
 * Missing OneDrive Files
-Occasionally, should Microsoft decide that your Mac isn't worth supporting, you may find that OneDrive crashes or is forceably removed. This is terrifying as if you choose to backup your Desktop and Documents, all the kept in them will disappear leaving you with an empty space where the work you painstakingly committed hours of your life once were. Don't panic yet! Usually the files will still exist on your Mac but they will be hidden behind a few directories, some of which may be invisible.
+Occasionally, should Microsoft decide that your Mac isn't worth supporting, you may find that OneDrive crashes or is forceably removed. This is terrifying as if you choose to backup your Desktop and Documents, all the files kept in them will disappear leaving you with an empty space where the work you painstakingly committed hours of your life to once were. Don't panic yet! Usually the files will still exist on your Mac but they will be hidden behind a few directories, some of which may be invisible.
 
 The 'onedrive_discovery' script will check for your OneDrive files in the hidden locations and offer you the choice to copy these to your home area or create links to these locations for easier access (useful if your storage conscious).
 
